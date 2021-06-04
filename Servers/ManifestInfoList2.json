@@ -1,0 +1,14 @@
+[
+  {
+    "ManifestString": "5112800850661766506",
+    "FriendlyName": "September 27th, 2018",
+    "ManifestPatchInfo": {
+      "AssemmblyURL": "",
+      "AssemmblyHash": "16f895d5941bae3bf16bfacbca922aa7",
+      "PUNAppIDOffset": 165303984,
+      "VoiceAppIDOffset": 165304024
+    },
+    "RequiresRecNet": true,
+    "ServerName": "VaultServer2018"
+  }
+]
